@@ -9,3 +9,7 @@ In its 15 day run, it got aproxximately 13,000 upvotes.
 ## Potential Use Case:
 Can be modified to run on other subreddits for better things.
 
+## Instructions:
+* Fill the praw.ini file with api tokens, username and password from reddit.
+* Install the required python packages.
+* Run python3 msbot.py
